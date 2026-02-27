@@ -68,3 +68,8 @@ h2, p {
 .joli:last-child {
   border-bottom: none;
 }
+
+.img {
+	float: left;
+}
+
